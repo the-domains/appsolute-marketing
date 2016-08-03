@@ -1,4 +1,3 @@
-layout_spectrum: 0.2866564905270934
 typography_spectrum: 0.537729126168415
 color:
   brandStrength: 0.1655357237905264
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.2866564905270934
 name: APPsolute Marketing
 title: Mobile APPs
+description: Helping Businesses and their Customers Connect Better!
