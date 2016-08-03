@@ -10,6 +10,9 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/16cbc0a8-3833-4949-a7f2-6dc37216c94d.png
 layout_spectrum: 0.2866564905270934
 name: APPsolute Marketing
 title: Mobile APPs
